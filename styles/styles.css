@@ -58,8 +58,8 @@ button {
     font-size: 16px;
     display: flex;
     flex-direction: column;
-    gap: 24px;
-    margin-top: 20px;
+    gap: 16px;
+    margin-top: 18px;
     color: var(--color-subtle);
 }
 
@@ -86,7 +86,7 @@ button {
     flex-direction: row;
     gap: 12px;
     align-items: center;
-    margin-top: 14px;
+    margin-top: 20px;
 }
 
 .avatar img {
